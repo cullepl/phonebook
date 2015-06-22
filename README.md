@@ -33,6 +33,4 @@ Other requirements:
 phonebook.json file in the same directory as the program.
 An example file is supplied which details the required json structure.
 
-To run:
-Execute this from the command line.
-node myphonebook
+To run, Execute this from the command line "node phonebook.js"
